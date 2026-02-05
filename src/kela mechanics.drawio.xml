@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7">
   <diagram name="Page-1" id="Dtc6_nMZAwFbCLwHKIck">
-    <mxGraphModel dx="4019" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3044" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -644,7 +644,7 @@
         <mxCell id="vtdebE1j-7EbDIBlz1rs-37" parent="1" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" value="Stab would be very useful." vertex="1">
           <mxGeometry height="100" width="80" x="-150" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="vtdebE1j-7EbDIBlz1rs-48" edge="1" parent="1" source="bL77Ky0uIB_K7sM-iYix-154" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.366;exitY=0.959;exitDx=0;exitDy=0;exitPerimeter=0;" target="bL77Ky0uIB_K7sM-iYix-170" value="">
+        <mxCell id="vtdebE1j-7EbDIBlz1rs-48" edge="1" parent="1" source="bL77Ky0uIB_K7sM-iYix-154" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" target="bL77Ky0uIB_K7sM-iYix-170" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="-460" y="1690" />
@@ -672,7 +672,10 @@
           <mxGeometry height="130" width="180" x="70" y="590" as="geometry" />
         </mxCell>
         <mxCell id="_UL7Lwq3F7f1V9rKne7w-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Quick note!&lt;div&gt;I do try to only keep info that I can verify with VOD review, and indicate when I&#39;m guessing/speculating.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="160" x="290" y="602.5" as="geometry" />
+          <mxGeometry height="100" width="160" x="300" y="602.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_UL7Lwq3F7f1V9rKne7w-3" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=21;fillColor=#fff2cc;strokeColor=#d6b656;" value="Side side side note, if colors are inaccessible or really bad please let me know. I tried to use shapes to differentiate different pieces of info, but I can only do so much :)" vertex="1">
+          <mxGeometry height="95" width="210" x="-840" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
