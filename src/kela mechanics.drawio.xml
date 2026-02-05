@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.7">
   <diagram name="Page-1" id="Dtc6_nMZAwFbCLwHKIck">
-    <mxGraphModel dx="3702" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4019" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -667,6 +667,12 @@
             <mxPoint x="260" y="1980" as="sourcePoint" />
             <mxPoint x="1260" y="2130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_UL7Lwq3F7f1V9rKne7w-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Have questions or corrections?&lt;/h1&gt;&lt;p&gt;Send DM to @mapleia on Discord, I&#39;m happy to correct info!&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="180" x="70" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="_UL7Lwq3F7f1V9rKne7w-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=20;fillColor=#fff2cc;strokeColor=#d6b656;" value="Quick note!&lt;div&gt;I do try to only keep info that I can verify with VOD review, and indicate when I&#39;m guessing/speculating.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="290" y="602.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
